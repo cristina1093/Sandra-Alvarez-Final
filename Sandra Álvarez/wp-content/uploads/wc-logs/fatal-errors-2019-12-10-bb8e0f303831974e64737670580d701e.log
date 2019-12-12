@@ -1,0 +1,42 @@
+2019-12-10T02:59:08+00:00 CRITICAL syntax error, unexpected '<', expecting end of file en C:\xampp1\htdocs\proyecto\wp-content\themes\shopstar-hijo\functions.php en la línea 14
+
+2019-12-10T03:00:06+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\xampp1\htdocs\proyecto\wp-content\themes\shopstar-hijo\functions.php:14
+Stack trace:
+#0 C:\xampp1\htdocs\proyecto\wp-settings.php(499): include()
+#1 C:\xampp1\htdocs\proyecto\wp-config.php(96): require_once('C:\\xampp1\\htdoc...')
+#2 C:\xampp1\htdocs\proyecto\wp-load.php(37): require_once('C:\\xampp1\\htdoc...')
+#3 C:\xampp1\htdocs\proyecto\wp-blog-header.php(13): require_once('C:\\xampp1\\htdoc...')
+#4 C:\xampp1\htdocs\proyecto\index.php(17): require('C:\\xampp1\\htdoc...')
+#5 {main}
+  thrown en C:\xampp1\htdocs\proyecto\wp-content\themes\shopstar-hijo\functions.php en la línea 14
+
+2019-12-10T03:00:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\xampp1\htdocs\proyecto\wp-content\themes\shopstar-hijo\functions.php:14
+Stack trace:
+#0 C:\xampp1\htdocs\proyecto\wp-settings.php(499): include()
+#1 C:\xampp1\htdocs\proyecto\wp-config.php(96): require_once('C:\\xampp1\\htdoc...')
+#2 C:\xampp1\htdocs\proyecto\wp-load.php(37): require_once('C:\\xampp1\\htdoc...')
+#3 C:\xampp1\htdocs\proyecto\wp-blog-header.php(13): require_once('C:\\xampp1\\htdoc...')
+#4 C:\xampp1\htdocs\proyecto\index.php(17): require('C:\\xampp1\\htdoc...')
+#5 {main}
+  thrown en C:\xampp1\htdocs\proyecto\wp-content\themes\shopstar-hijo\functions.php en la línea 14
+
+2019-12-10T03:00:22+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\xampp1\htdocs\proyecto\wp-content\themes\shopstar-hijo\functions.php:14
+Stack trace:
+#0 C:\xampp1\htdocs\proyecto\wp-settings.php(499): include()
+#1 C:\xampp1\htdocs\proyecto\wp-config.php(96): require_once('C:\\xampp1\\htdoc...')
+#2 C:\xampp1\htdocs\proyecto\wp-load.php(37): require_once('C:\\xampp1\\htdoc...')
+#3 C:\xampp1\htdocs\proyecto\wp-blog-header.php(13): require_once('C:\\xampp1\\htdoc...')
+#4 C:\xampp1\htdocs\proyecto\index.php(17): require('C:\\xampp1\\htdoc...')
+#5 {main}
+  thrown en C:\xampp1\htdocs\proyecto\wp-content\themes\shopstar-hijo\functions.php en la línea 14
+
+2019-12-10T03:00:56+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\xampp1\htdocs\proyecto\wp-content\themes\shopstar-hijo\functions.php:14
+Stack trace:
+#0 C:\xampp1\htdocs\proyecto\wp-settings.php(499): include()
+#1 C:\xampp1\htdocs\proyecto\wp-config.php(96): require_once('C:\\xampp1\\htdoc...')
+#2 C:\xampp1\htdocs\proyecto\wp-load.php(37): require_once('C:\\xampp1\\htdoc...')
+#3 C:\xampp1\htdocs\proyecto\wp-blog-header.php(13): require_once('C:\\xampp1\\htdoc...')
+#4 C:\xampp1\htdocs\proyecto\index.php(17): require('C:\\xampp1\\htdoc...')
+#5 {main}
+  thrown en C:\xampp1\htdocs\proyecto\wp-content\themes\shopstar-hijo\functions.php en la línea 14
+

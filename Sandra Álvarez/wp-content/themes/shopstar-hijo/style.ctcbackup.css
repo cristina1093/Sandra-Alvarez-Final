@@ -1,0 +1,145 @@
+/* ETIQUETAS CSS QUE INDICAN A WORDPRESS QUE ESTE ES EL TEMA HIJO */
+ 
+/*
+Theme Name: shopstar-hijo
+Template: shopstar
+*/
+
+
+
+.page-template-template-left-sidebar-php .content-area {
+	width: 75%;
+	float: right;
+	padding: 0 0 0 2%;
+}
+
+.page-template-template-left-sidebar-php .widget-area {
+	width: 25%;
+	float: right;
+	padding: 100px 2% 0 0;
+}
+
+/* -------- Sidebar Styling -------- */
+
+.widget-area {
+	width: 25%;
+	float: right;
+	padding: 100px 0 0 2%;
+}
+
+.widget-area .widget-title {
+	font-size: 16px;
+	font-weight: 400;
+	margin: 0 0 9px 0;
+	padding: 0;
+}
+.widget-area .widget {
+	padding-bottom: 21px;
+	border-bottom: 1px solid #939598;
+}
+.widget-area .widget:last-child {
+	border-bottom: none;
+}
+.widget-area .widget.widget_search {
+	padding-bottom: 28px
+}
+.widget-area .widget ul {
+    margin: 0;
+    padding: 0;
+}
+.widget-area .widget ul li {
+    margin: 0 0 2px;
+    padding: 0;
+    list-style-type: none;
+	font-size: 14px;
+	font-weight: 300;
+}
+.widget-area .widget ul li a {
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.widget-area .widget ul ul {
+    margin: 3px 0 3px 15px;
+}
+.widget-area .widget ul ul li {
+    margin: 0;
+}
+.widget-area .widget ul ul ul {
+    margin: 3px 0 3px 30px;
+}
+
+
+/* -------- Sidebar Search -------- */
+.widget.widget_search {
+	border-bottom: 0;
+}
+
+.widget-area .widget .search-field {
+	width: 82%;
+	height: 37px;
+	max-width: 284px;
+	border-right: 0;
+	padding-right: 0;
+	margin-right: 0;
+	float: right;
+}
+.widget-area .widget .search-submit {
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-left: 0;
+	/*
+	width: 40px;
+	max-width: 40px;
+	*/
+	width: 16%;
+	min-width: 0;
+	max-width: 40px;
+	height: 45px;
+	float: right;
+	padding: 0;
+	border-left: 0;
+	vertical-align: top;
+	text-shadow: none;
+}
+
+/*
+.site-footer .widget  {
+    text-align: center;
+    margin-left: 50px;
+    
+	
+}
+*/
+
+.site-content .widget-area{
+    
+   float: right;
+   width: 25%;
+    
+}
+
+
+
+.site-footer .widgets .container .padder > ul > li:first-child{
+    /*text-align: center;*/
+    margin-left: 350px;
+    
+    
+}
+
+
+
+/*
+.textwidget{
+    text-align: center;
+    margin-left: 50px;
+}
+.widgettitle {
+    text-align: center;
+    margin-left: 50px;
+    
+}
+
+*/
+

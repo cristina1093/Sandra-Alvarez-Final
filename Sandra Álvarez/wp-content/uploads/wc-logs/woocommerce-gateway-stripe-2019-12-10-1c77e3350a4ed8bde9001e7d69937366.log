@@ -1,0 +1,49 @@
+2019-12-10T00:04:32+00:00 DEBUG 
+====Stripe Version: 4.2.4====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+
+2019-12-10T02:50:18+00:00 DEBUG 
+====Stripe Version: 4.2.4====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+
+2019-12-10T02:52:34+00:00 DEBUG 
+====Stripe Version: 4.2.4====
+====Start Log====
+Error: No ha sido posible verificar el dominio - clave secreta no disponible.
+====End Log====
+
+
+2019-12-10T03:19:21+00:00 DEBUG 
+====Stripe Version: 4.2.4====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+
+2019-12-10T03:34:31+00:00 DEBUG 
+====Stripe Version: 4.2.4====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+
+2019-12-10T03:34:57+00:00 DEBUG 
+====Stripe Version: 4.2.4====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+
+2019-12-10T17:38:34+00:00 DEBUG 
+====Stripe Version: 4.2.4====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+

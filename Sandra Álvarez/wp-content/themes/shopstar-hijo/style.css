@@ -1,0 +1,98 @@
+/*
+Theme Name: shopstar-hijo
+Template: shopstar
+Author: Child Theme Configurator
+Version: 1.0.1572960373
+Updated: 2019-11-05 14:26:13
+
+*/
+/*
+.widget-area {
+    float: right;
+}
+.page-template-template-left-sidebar-php .content-area {
+    float: right;
+}
+.page-template-template-left-sidebar-php .widget-area {
+    float: right;
+}
+.widget-area .widget .search-field {
+    float: right;
+}
+.widget-area .widget .search-submit {
+    float: right;
+}
+*/
+.site-footer .widgets .container .padder > ul > li:first-child {
+   float: center;
+}/*
+.site-content .widget-area {
+    width: 25%;
+    float: right;
+}
+.site-content .container .padder .widget-area {
+    float: center;
+}
+
+*/
+
+/*PARA AGRANDAR EL SIGUENOS EN */
+.widgets .container .padder .footer-mega-col .footer-mega-col-wrap .widget-title{
+	font-size:20px;
+}
+
+/*PARA DESPEGAR DE SIGUENOS EN .. LAS IMAGENES DE FACEBOOK E INTAGRAM*/
+.widgets .container .padder .footer-mega-col .footer-mega-col-wrap .textwidget.custom-html-widget{
+	
+	padding: 30px 10px 10px 10px
+	
+	
+}
+
+
+
+/*PARA QUITAR EL SUBRAYADO DE LOS HIPERVINCULOS DE HREF a*/
+.site-footer .widgets a{
+	
+	text-decoration:none;
+	
+	
+}
+
+/*PARA PONER EN NEGRO EL BOTON DE REGISTRARSE DE CREAR CUENTA*/
+.site-content .container .padder .content-area .site-main .entry-content .um-form .um-col-alt .um-left.um-half .um-button{
+	
+	background:black;
+	
+}
+/*PARA PONER EN NEGRO EL BOTON DE REGISTRARSE DE RESTABLECER CONTRASEÑA*/
+.site-content .container .padder .content-area .site-main .entry-content .um-form .um-col-alt.um-col-alt-b .um-button{
+	
+	background:black;
+	
+}
+
+@media (max-width:1200px) and (min-width:780px){
+	.layout-mode-responsive .gf-menu.l1 > li > .item{
+		font-size:12px;
+		padding:5px;
+	}
+ 
+	.gf-menu{
+		float:right;
+	}	
+}
+ 
+@media (max-width:958px) and (min-width:768px){
+	.layout-mode-responsive .gf-menu.l1 > li > .item{
+		font-size:10px;
+		text-transform:none;
+	}
+}
+
+
+.site-footer .bottom-bar {
+	
+	
+	border-color:white;
+}
